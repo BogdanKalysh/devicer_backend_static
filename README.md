@@ -1,1 +1,1 @@
-This is repo for providing static Json data using github pages.
+This is repo for providing static Json data using GitHub pages.
